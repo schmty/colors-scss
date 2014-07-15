@@ -1,5 +1,5 @@
 Colors-scss
 ===========
 
-# Simple sass color variables 
+## Simple sass color variables
 (based on mrmrs/colors)
