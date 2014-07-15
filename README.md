@@ -6,9 +6,9 @@ Colors-scss
 
 ### Installation
 ```scss
-@import 'colors'; # (or path to colors if not in root relative to stylesheet)
+@import 'colors'; // (or path to colors if not in root relative to stylesheet)
 
 body {
   background-color: $red;
-  # etc
+  // etc
 }
